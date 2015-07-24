@@ -7,7 +7,7 @@ The application is based around the concept of sports competitions. The initial 
 ## Running
 
 * Navigate to public folder
-* Execute: php -S 0.0.0.0:port
+* Execute: `php -S 0.0.0.0:port`
 * In the browser, navigate to localhost:port
 
 ## API endpoints
